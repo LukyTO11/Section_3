@@ -1,0 +1,53 @@
+* {
+    background-image: url("./image/table.png");
+    background-size: cover;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 60px;
+}
+
+#message-el {
+    padding-top: 20px;   
+    font-size: 40px;
+}
+
+button {
+    font-weight: bold;
+    display: block;
+    margin: 20px auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-btn {
+    background: goldenrod;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s;
+    color: rgb(3, 106, 41);
+}
+
+.start-btn:hover {
+    background: rgb(255, 236, 139);
+}
+
+.card-btn {
+    background: goldenrod;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s;
+    color: rgb(3, 106, 41);
+}
+
+.card-btn:hover {
+    background: rgb(255, 236, 139);
+}
